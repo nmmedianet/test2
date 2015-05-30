@@ -1,1 +1,1 @@
-<?php echo 'test azul kan';?>
+<?php echo 'teste azul ';?>
